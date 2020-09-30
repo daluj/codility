@@ -1,7 +1,6 @@
 package lesson3;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class PermMissingElem {
     public int solution(int[] A) {
