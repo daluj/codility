@@ -3,7 +3,7 @@ package lesson7;
 import java.util.Stack;
 
 public class Fish {
-    public int solution_b(int[] A, int[] B) {
+    public int solution(int[] A, int[] B) {
         int N = A.length;
         int fishAlive = N;
 
