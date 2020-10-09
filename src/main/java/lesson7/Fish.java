@@ -21,11 +21,13 @@ public class Fish {
 
             // Upstream fish
             while (!sizes.isEmpty()) {
+                // Downstream fish bigger
                 if (sizes.peek() > A[i]) {
                     fishAlive--;
                     break;
                 }
 
+                // Downstream fish smaller
                 fishAlive--;
                 sizes.pop();
             }
