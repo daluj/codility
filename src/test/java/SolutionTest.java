@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 public class SolutionTest {
     @Test
-    public void firstTest(){
+    public void exampleTest(){
         // Input
         Solution s = new Solution();
         int input = 1;
