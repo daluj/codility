@@ -13,7 +13,7 @@ public class MaxSliceTest {
 
         // Output
         int actual = ms.solution(input);
-        int expected = 1;
+        int expected = 10;
         assertEquals(expected, actual);
     }
 }
