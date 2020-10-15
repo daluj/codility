@@ -18,7 +18,7 @@ public class SolutionTest {
     }
 
     @Test
-    public void exampleRandomTest(){
+    public void randomTest(){
         // Input
         Solution s = new Solution();
 
